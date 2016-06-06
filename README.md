@@ -1,2 +1,3 @@
-# bundle-reaper
-Tool to facilitate org maintenance
+bundle-reaper
+===================
+
